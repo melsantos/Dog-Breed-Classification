@@ -261,3 +261,8 @@ __pycache__/
 *.pyc
 /tensor_tutorial/env
 /tensor_tutorial/tensor
+/tensor_tutorial/tesnsor
+/tensor_tutorial/Data/test
+/tensor_tutorial/Data/train
+/python_scr
+/Data
